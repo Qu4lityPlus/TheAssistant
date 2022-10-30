@@ -1,2 +1,2 @@
-# TheHelper
-TheHelper Minecraft Plugin
+# TheAssistant
+TheAssistant Minecraft Plugin
